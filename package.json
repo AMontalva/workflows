@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "Antonio Montalvo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
 }
